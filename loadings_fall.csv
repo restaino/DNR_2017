@@ -1,0 +1,73 @@
+Unit,Category,Episode,Loading
+Angel,1000hr,Pre,7.47
+Angel,1000hr,Post,0.57
+Orion 2,1000hr,Pre,1.52
+Orion 2,1000hr,Post,0.52
+Paradise 90,1000hr,Pre,10.73
+Paradise 90,1000hr,Post,4.43
+Chumstick ZUI,1000hr,Pre,2.56
+Chumstick ZUI,1000hr,Post,0.12
+Angel,100hr,Pre,1.47
+Angel,100hr,Post,0.23
+Orion 2,100hr,Pre,0.84
+Orion 2,100hr,Post,0.37
+Paradise 90,100hr,Pre,1.64
+Paradise 90,100hr,Post,0.71
+Chumstick ZUI,100hr,Pre,2.71
+Chumstick ZUI,100hr,Post,0.17
+Angel,10hr,Pre,1.09
+Angel,10hr,Post,0.25
+Orion 2,10hr,Pre,0.53
+Orion 2,10hr,Post,0.31
+Paradise 90,10hr,Pre,1.49
+Paradise 90,10hr,Post,0.41
+Chumstick ZUI,10hr,Pre,1.28
+Chumstick ZUI,10hr,Post,0.12
+Angel,1hr,Pre,0.38
+Angel,1hr,Post,0.07
+Orion 2,1hr,Pre,0.01
+Orion 2,1hr,Post,0.01
+Paradise 90,1hr,Pre,0.26
+Paradise 90,1hr,Post,0.07
+Chumstick ZUI,1hr,Pre,0.12
+Chumstick ZUI,1hr,Post,0.01
+Angel,Duff,Pre,11.07
+Angel,Duff,Post,4.36
+Orion 2,Duff,Pre,9.26
+Orion 2,Duff,Post,3.77
+Paradise 90,Duff,Pre,29.71
+Paradise 90,Duff,Post,10.74
+Chumstick ZUI,Duff,Pre,5.33
+Chumstick ZUI,Duff,Post,1.18
+Angel,Herb,Pre,0.06
+Angel,Herb,Post,0.01
+Orion 2,Herb,Pre,0.14
+Orion 2,Herb,Post,0.03
+Paradise 90,Herb,Pre,0.05
+Paradise 90,Herb,Post,0.03
+Chumstick ZUI,Herb,Pre,0.03
+Chumstick ZUI,Herb,Post,0.01
+Angel,Litter,Pre,2.47
+Angel,Litter,Post,0.46
+Orion 2,Litter,Pre,2.53
+Orion 2,Litter,Post,0.42
+Paradise 90,Litter,Pre,1.57
+Paradise 90,Litter,Post,0.64
+Chumstick ZUI,Litter,Pre,4.24
+Chumstick ZUI,Litter,Post,0.71
+Angel,Shrub,Pre,0.13
+Angel,Shrub,Post,0.05
+Orion 2,Shrub,Pre,0.07
+Orion 2,Shrub,Post,0
+Paradise 90,Shrub,Pre,0.38
+Paradise 90,Shrub,Post,0.35
+Chumstick ZUI,Shrub,Pre,0.04
+Chumstick ZUI,Shrub,Post,0.02
+Angel,Total,Pre,24.14
+Angel,Total,Post,6
+Orion 2,Total,Pre,14.9
+Orion 2,Total,Post,5.43
+Paradise 90,Total,Pre,45.83
+Paradise 90,Total,Post,17.38
+Chumstick ZUI,Total,Pre,16.31
+Chumstick ZUI,Total,Post,2.34
